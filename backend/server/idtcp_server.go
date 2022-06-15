@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/MIXISAMA/gobang/backend/idtcp"
+	"github.com/paulthewineguy/Gobang/backend/idtcp"
 )
 
 type IdtcpMessage struct {
