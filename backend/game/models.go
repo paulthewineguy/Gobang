@@ -3,7 +3,7 @@ package game
 import (
 	"errors"
 
-	"github.com/MIXISAMA/gobang/backend/server"
+	"github.com/paulthewineguy/Gobang/backend/server"
 )
 
 type GlobalData struct {
